@@ -3,12 +3,9 @@
   👋 @chaennlee
 
   
-  👀 RL, control, diffusion models
+  👀  🌱 working working working
 
   
-  🌱 currently learning RL + diffusion
-
-  
-  📫 Email : eun020509@naver.com, Blog : [ufubbd.tistory.com ](https://ufubbd.tistory.com/)
+  📫 Email : eun020509@naver.com
 
 
